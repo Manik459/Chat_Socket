@@ -8,7 +8,7 @@ Created on Wed Nov 22 17:03:44 2017
 
 import sys
 import socket
-from queue import queue
+from Queue import Queue
 import re
 import os
 import math
